@@ -1,0 +1,4 @@
+'ShouldCalculateBoundaryValues',100,9801,90
+'ShouldCalculateBoundaryOutsideValues',99,9802,90
+'ShouldCalculateBoundaryInsideValues',101,9800,88
+'ShouldCalculateDefaultValues',200,300,3
